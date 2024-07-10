@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\HoangTranLeNa\Buoi01_BaiTap\Buoi01_BaiTap\bin\Debug\Buoi01_BaiTap.exe.config
+E:\LuuDuLieuSinhVien\HoangTranLeNa\Buoi01_BaiTap\Buoi01_BaiTap\bin\Debug\Buoi01_BaiTap.exe
+E:\LuuDuLieuSinhVien\HoangTranLeNa\Buoi01_BaiTap\Buoi01_BaiTap\bin\Debug\Buoi01_BaiTap.pdb
+E:\LuuDuLieuSinhVien\HoangTranLeNa\Buoi01_BaiTap\Buoi01_BaiTap\obj\Debug\Buoi01_BaiTap.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\HoangTranLeNa\Buoi01_BaiTap\Buoi01_BaiTap\obj\Debug\Buoi01_BaiTap.exe
+E:\LuuDuLieuSinhVien\HoangTranLeNa\Buoi01_BaiTap\Buoi01_BaiTap\obj\Debug\Buoi01_BaiTap.pdb
